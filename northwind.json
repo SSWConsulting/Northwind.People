@@ -5,15 +5,17 @@
         "lastName": "Davolio",
         "emailAddress": "Nancy.Davolio@northwindDB.com",
         "isActive": true,
-        "defaultSite": "Seattle",       
+        "defaultSite": "Seattle",        
         "skills": [
             {
                 "technology": "Beverages",
-                "experienceLevel": "Advanced"
+                "experienceLevel": "Advanced",
+                "sortOrder": "1"
             },
             {
                 "technology": "Confections",
-                "experienceLevel": "Intermediate"
+                "experienceLevel": "Intermediate",
+                "sortOrder": "2"
             }
         ],
         "billableRate": 10.0,
@@ -24,7 +26,8 @@
         "twitterUsername": "Nancy.Davolio",
         "gitHubUrl": "",
         "youTubePlayListId": "",
-        "aboutMeAudioUrl": ""
+        "aboutMeAudioUrl": "",
+        "publicPhotoAlbumUrl": ""
     },
   {
     "userId": "2",
@@ -36,11 +39,13 @@
     "skills": [
       {
         "technology": "Produce",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       },
       {
         "technology": "Confections",
-        "experienceLevel": "Intermediate"
+        "experienceLevel": "Intermediate",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -51,7 +56,8 @@
     "twitterUsername": "Andrew.Fuller",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "3",
@@ -63,7 +69,8 @@
     "skills": [
       {
         "technology": "Dairy Products",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -74,7 +81,8 @@
     "twitterUsername": "Janet.Leverling",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "4",
@@ -86,11 +94,13 @@
     "skills": [
       {
         "technology": "Beverages",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       },
       {
         "technology": "Confections",
-        "experienceLevel": "Intermediate"
+        "experienceLevel": "Intermediate",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -101,7 +111,8 @@
     "twitterUsername": "Margaret.Peacock",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "5",
@@ -114,11 +125,13 @@
     "skills": [
       {
         "technology": "Beverages",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       },
       {
         "technology": "Confections",
-        "experienceLevel": "Intermediate"
+        "experienceLevel": "Intermediate",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -129,7 +142,8 @@
     "twitterUsername": "Steven.Buchanan",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "6",
@@ -142,11 +156,13 @@
     "skills": [
       {
         "technology": "Beverages",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       },
       {
         "technology": "Confections",
-        "experienceLevel": "Intermediate"
+        "experienceLevel": "Intermediate",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -157,7 +173,8 @@
     "twitterUsername": "Michael.Suyama",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "7",
@@ -170,11 +187,13 @@
     "skills": [
       {
         "technology": "Beverages",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       },
       {
         "technology": "Confections",
-        "experienceLevel": "Intermediate"
+        "experienceLevel": "Intermediate",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -185,7 +204,8 @@
     "twitterUsername": "Robert.King",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "8",
@@ -198,11 +218,13 @@
     "skills": [
       {
         "technology": "Beverages",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       },
       {
         "technology": "Confections",
-        "experienceLevel": "Intermediate"
+        "experienceLevel": "Intermediate",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -213,7 +235,8 @@
     "twitterUsername": "Laura.Callahan",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "9",
@@ -226,11 +249,13 @@
     "skills": [
       {
         "technology": "Beverages",
-        "experienceLevel": "Advanced"
+        "experienceLevel": "Advanced",
+        "sortOrder": "1"
       },
       {
         "technology": "Confections",
-        "experienceLevel": "Intermediate"
+        "experienceLevel": "Intermediate",
+        "sortOrder": "1"
       }
     ],
     "billableRate": 10.0,
@@ -241,6 +266,7 @@
     "twitterUsername": "Anne.Dodsworth",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   }
 ]
