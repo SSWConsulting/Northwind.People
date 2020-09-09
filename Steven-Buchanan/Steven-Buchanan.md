@@ -1,8 +1,6 @@
 ---
 id: "5"
  
-category: "Sales Manager"
-role: "Sales Manager"
 qualifications: ""
 
 quote: ""

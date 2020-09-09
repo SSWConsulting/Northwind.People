@@ -1,8 +1,6 @@
 ---
 id: "6"
- 
-category: "Sales Representatives"
-role: "Sales Representative"
+
 qualifications: ""
 
 quote: ""

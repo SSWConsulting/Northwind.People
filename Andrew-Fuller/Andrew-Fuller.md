@@ -1,8 +1,6 @@
 ---
 id: "2"
- 
-category: "Vice President"
-role: "Vice President"
+
 qualifications: ""
 
 quote: ""
